@@ -1,0 +1,14 @@
+C:\Users\Sgar2\OneDrive\Desktop\Trabajos de A\App_EmailOriginator\App_EmailOriginator\bin\Debug\net8.0\App_EmailOriginator.exe
+C:\Users\Sgar2\OneDrive\Desktop\Trabajos de A\App_EmailOriginator\App_EmailOriginator\bin\Debug\net8.0\App_EmailOriginator.deps.json
+C:\Users\Sgar2\OneDrive\Desktop\Trabajos de A\App_EmailOriginator\App_EmailOriginator\bin\Debug\net8.0\App_EmailOriginator.runtimeconfig.json
+C:\Users\Sgar2\OneDrive\Desktop\Trabajos de A\App_EmailOriginator\App_EmailOriginator\bin\Debug\net8.0\App_EmailOriginator.dll
+C:\Users\Sgar2\OneDrive\Desktop\Trabajos de A\App_EmailOriginator\App_EmailOriginator\bin\Debug\net8.0\App_EmailOriginator.pdb
+C:\Users\Sgar2\OneDrive\Desktop\Trabajos de A\App_EmailOriginator\App_EmailOriginator\obj\Debug\net8.0\App_EmailOriginator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sgar2\OneDrive\Desktop\Trabajos de A\App_EmailOriginator\App_EmailOriginator\obj\Debug\net8.0\App_EmailOriginator.AssemblyInfoInputs.cache
+C:\Users\Sgar2\OneDrive\Desktop\Trabajos de A\App_EmailOriginator\App_EmailOriginator\obj\Debug\net8.0\App_EmailOriginator.AssemblyInfo.cs
+C:\Users\Sgar2\OneDrive\Desktop\Trabajos de A\App_EmailOriginator\App_EmailOriginator\obj\Debug\net8.0\App_EmailOriginator.csproj.CoreCompileInputs.cache
+C:\Users\Sgar2\OneDrive\Desktop\Trabajos de A\App_EmailOriginator\App_EmailOriginator\obj\Debug\net8.0\App_EmailOriginator.dll
+C:\Users\Sgar2\OneDrive\Desktop\Trabajos de A\App_EmailOriginator\App_EmailOriginator\obj\Debug\net8.0\refint\App_EmailOriginator.dll
+C:\Users\Sgar2\OneDrive\Desktop\Trabajos de A\App_EmailOriginator\App_EmailOriginator\obj\Debug\net8.0\App_EmailOriginator.pdb
+C:\Users\Sgar2\OneDrive\Desktop\Trabajos de A\App_EmailOriginator\App_EmailOriginator\obj\Debug\net8.0\App_EmailOriginator.genruntimeconfig.cache
+C:\Users\Sgar2\OneDrive\Desktop\Trabajos de A\App_EmailOriginator\App_EmailOriginator\obj\Debug\net8.0\ref\App_EmailOriginator.dll
